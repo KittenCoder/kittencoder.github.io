@@ -1,0 +1,13 @@
+theme: minima
+destination: /build
+lsi: false
+safe: true
+source: /src
+timezone: America/Vancouver
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
